@@ -1,3 +1,3 @@
-function Dupa(){
+function Dupa(response){
 	
 }
