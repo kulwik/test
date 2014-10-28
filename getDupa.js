@@ -1,3 +1,3 @@
-function dupa(){
+function Dupa(){
 	
 }
