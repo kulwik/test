@@ -1,4 +1,4 @@
 function yourMethod(teste,res){
 
-	res.send("PUT");
+	res.send(202, "PUT", {'Access-Control-Allow-Origin': 'http://example.com:8080'});
 }
