@@ -1,4 +1,4 @@
 function yourMethod(teste,res){
 
-	res.send();
+	res.send("no dobra");
 }
